@@ -54,7 +54,6 @@
     * link: if the referrer and request are both articles and the referrer links to the request
     * external: if the referrer host is not en(.m)?.wikipedia.org
     * other: if the referrer and request are both articles but the referrer does not link to the request. This can happen when clients search or spoof their refer.
----
 
 ## Data Set Used
 - [Pageviews Filtered to Human Traffic](https://dumps.wikimedia.org/other/pageviews/2021/2021-01/)
