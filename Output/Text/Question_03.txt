@@ -1,0 +1,12 @@
++------------------------------------+--------+
+|                prev                | visit  |
++------------------------------------+--------+
+| Hotel_California                   | 15839  |
+| Hotel_California_(Eagles_album)    | 12167  |
+| Hotel_California_(Tyga_album)      | 457    |
+| Hotel_California_(2013_film)       | 325    |
+| Hotel_California_2020_Tour         | 288    |
+| Hotel_California_(disambiguation)  | 167    |
+| Hotel_California_(2008_film)       | 87     |
++------------------------------------+--------+
+7 rows selected (35.199 seconds)

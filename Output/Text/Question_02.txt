@@ -1,0 +1,25 @@
++-----------------------------------------+----------+
+|                  prev                   |  visits  |
++-----------------------------------------+----------+
+| UEFA_Euro_2020                          | 3987942  |
+| Main_Page                               | 2335650  |
+| Loki_(TV_series)                        | 1705327  |
+| Deaths_in_2021                          | 1675739  |
+| UEFA_Euro_2020_squads                   | 1634567  |
+| In_the_Heights_(film)                   | 1410500  |
+| The_Conjuring:_The_Devil_Made_Me_Do_It  | 1366687  |
+| Bo_Burnham                              | 1250900  |
+| UEFA_European_Championship              | 1217071  |
+| F9_(film)                               | 1189972  |
+| The_Family_Man_(Indian_TV_series)       | 1168278  |
+| 2020_Summer_Olympics                    | 948810   |
+| Elizabeth_II                            | 941667   |
+| England_national_football_team          | 918126   |
+| List_of_American_films_of_2021          | 895515   |
+| BTS                                     | 885757   |
+| Mare_of_Easttown                        | 877183   |
+| Friends                                 | 863929   |
+| Italy_national_football_team            | 863283   |
+| Cruella_(film)                          | 852490   |
++-----------------------------------------+----------+
+20 rows selected (81.156 seconds)

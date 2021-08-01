@@ -1,0 +1,25 @@
++----------------------+------------+----------------------+------------+
+|    en.page_title     | us_visits  |    de.page_title     | ge_visits  |
++----------------------+------------+----------------------+------------+
+| Main_Page            | 240849     | Main_Page            | 120        |
+| Special:Search       | 202556     | Special:Search       | 2736       |
+| -                    | 127533     | -                    | 17340      |
+| Joe_Biden            | 59424      | Joe_Biden            | 5075       |
+| Beau_Biden           | 47970      | Beau_Biden           | 768        |
+| Dan_Quayle           | 36774      | Dan_Quayle           | 52         |
+| Richard_Ramirez      | 34196      | Richard_Ramirez      | 6          |
+| Kamala_Harris        | 27874      | Kamala_Harris        | 1338       |
+| Donald_Trump         | 27792      | Donald_Trump         | 2616       |
+| QAnon                | 17700      | QAnon                | 1145       |
+| Jill_Biden           | 17436      | Jill_Biden           | 336        |
+| Stephanie_Seymour    | 16944      | Stephanie_Seymour    | 522        |
+| Joe_Exotic           | 14752      | Joe_Exotic           | 340        |
+| WandaVision          | 13938      | WandaVision          | 318        |
+| Bridgerton           | 12938      | Bridgerton           | 926        |
+| Hunter_Biden         | 12796      | Hunter_Biden         | 252        |
+| Mitch_McConnell      | 11188      | Mitch_McConnell      | 243        |
+| Tiffany_Trump        | 10910      | Tiffany_Trump        | 184        |
+| Neilia_Hunter_Biden  | 9572       | Neilia_Hunter_Biden  | 248        |
+| Dolly_Parton         | 9284       | Dolly_Parton         | 896        |
++----------------------+------------+----------------------+------------+
+20 rows selected (40.716 seconds)
