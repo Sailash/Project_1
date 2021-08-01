@@ -19,7 +19,7 @@
 
 ## Data Definations
 
-* For Problem Statement 1, 4, 5 we need to Download jan 20, 2021 DataSet.
+* For Problem Statement ***1, 4 & 5*** we need to Download jan 20, 2021 DataSet.
 
     eg:  fr.b 1-Naphthol 1 737
 ### Data Explanation
@@ -41,7 +41,7 @@
 * mediawikiwiki: ".w"
 * wikidatawiki: ".wd"
 ---
-* For Problem Statement 2 & 3 we need to download Jan 2021 month DataSet.
+* For Problem Statement ***2 & 3*** we need to download Jan 2021 month DataSet.
 
     eg: other-search    Camp_Tawonga   external   183
 
