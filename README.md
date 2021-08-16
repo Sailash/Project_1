@@ -8,7 +8,7 @@
 * Find an example of an English wikipedia article that is relatively more popular in the Americas than Germany.
 * Find which device generate the most traffic on the English Wikipedia Article.
 
-## Softwares Used Hadoop
+## Softwares Used
 * Hadoop
 * HDFS
 * Yarn
